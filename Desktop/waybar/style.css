@@ -1,0 +1,125 @@
+/*Colors to save: ac52b1, 292625*/
+
+#workspaces button {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#workspaces button:hover {
+  background:rgba(0, 0, 0, 0.2);
+}
+
+#waybar {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+#cpu {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+}	
+
+#memory {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
+#network {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
+#network.disconnected {
+  background-color: #292625;
+  color: #000000;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+} 
+
+#clock {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
+label:focus {
+   background:rgba(0, 0, 0, 0.2);
+}
+
+#pulseaudio {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
+#temperature {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
+#custom-power {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+  margin-right: 4px;
+}
+
+#tray {
+  background-color: #292625;
+  color: #ac52b1;
+  border: 2px solid rgb(172, 82, 177);
+  border-radius: 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 6px;
+
+}
+
